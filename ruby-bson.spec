@@ -6,7 +6,7 @@
 Summary:	Ruby implementation of BSON
 Name:		ruby-%{gem_name}
 Version:	5.2.0
-Release:	1
+Release:	2
 License:	Apache-2.0
 Group:		Development/Languages
 Obsoletes:	ruby-bson-doc < %{version}-%{release}
